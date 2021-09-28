@@ -5,7 +5,7 @@ tagline:                                largest city in the state of minnesota
 categories:                             [ Wikipedia ]
 tags:                                   [ USA, Minnesota, Cities, Minneapolis ]
 
-image:                                  /assets/images/collections/blog/wikipedia/minneapolis.1200x400.jpg
+image:                                  assets/images/collections/blog/wikipedia/minneapolis.1200x400.jpg
 
 sitemap:                                false
 regenerate:                             false
@@ -17,7 +17,7 @@ resource_options:
       padding_bottom:                   50
       opacity:                          0.5
       slides:
-        - url:                          /assets/images/collections/blog/wikipedia/minneapolis.1200x400.jpg
+        - url:                          assets/images/collections/blog/wikipedia/minneapolis.1200x400.jpg
           alt:                          Minnesota
 ---
 
@@ -61,7 +61,7 @@ excerpt__end
 == Physical
 
 [role="mb-3"]
-image::collections/blog/wikipedia/minneapolis.1200x400.jpg[{{page.title}}]
+image::assets/images/collections/blog/wikipedia/minneapolis.1200x400.jpg[{{page.title}}]
 
 // Read: link:{wikipedia-article}[From Wikipedia, the free encyclopedia, window="_blank"].
 
